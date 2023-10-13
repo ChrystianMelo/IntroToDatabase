@@ -1,6 +1,6 @@
-# iBD Projects Repository
+# IntroToDatabase
 
-This repository contains projects related to the Database (iBD) subject. The projects are organized based on the topics covered during the course.
+This repository contains projects related to the course subject.
 
 ## Course Topics
 
@@ -40,9 +40,6 @@ This repository contains projects related to the Database (iBD) subject. The pro
 - **Review**
   - Description: Review of the topics covered so far.
 
-- **Exam 1**
-  - Description: Conducting the first exam of the course.
-
 - **SQL: DQL**
   - Description: SQL Language - Data Query Language.
 
@@ -75,9 +72,6 @@ This repository contains projects related to the Database (iBD) subject. The pro
 
 - **Review**
   - Description: Review of the topics covered so far.
-
-- **Exam 2**
-  - Description: Conducting the second exam of the course.
 
 - **TP2: Presentation < TP2**
   - Description: Presentation of the second practical assignment.
